@@ -4,6 +4,8 @@
 - 🦁 Estudando atualmente Análise e Desenvolvimento de Sistemas na U. P. MACKENZIE
 - 🔎 Em busca de Estágio na área de Tecnologia
 
+<p> Eu sou apaixonado em aprender coisas novas. Estou sempre fazendo parte de algo que me é apresentado, pois acredito que toda forma de conhecimento agrega pessoalmente a todos. Durante a primeira graduação, participei de grupos de estudos de grego antigo e me apaixonei. Apresar de ser um amante da literatura arcaica, migrei para a área das clássicas digitais, pois é um mercado em ascensão. Me integrei mais ao grego, troquei minha língua de formação e toda minha área de pesquisa. Me encontrei nesse universo digital e agora busco uma oportunidade de me aprofundar mais. </p>
+
 <div>
   <a href="https://https://github.com/allanpradella">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanpradella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
