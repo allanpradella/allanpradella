@@ -2,7 +2,7 @@
 
 - 📖 Formado em Letras Grego-Português pela Universidade Estadual Paulista UNESP
 - 🦁 Estudando atualmente Análise e Desenvolvimento de Sistemas na U. P. MACKENZIE
-- 🔎 Em busca de Estágio na área de Tecnologia
+- 🔎 Estagiário na Procurement Garage
 
 <p> Eu sou apaixonado em aprender coisas novas. Estou sempre fazendo parte de algo que me é apresentado, pois acredito que toda forma de conhecimento agrega pessoalmente a todos. Durante a primeira graduação, participei de grupos de estudos de grego antigo e me apaixonei. Apresar de ser um amante da literatura arcaica, migrei para a área das clássicas digitais, pois é um mercado em ascensão. Me integrei mais ao grego, troquei minha língua de formação e toda minha área de pesquisa. Me encontrei nesse universo digital e agora busco uma oportunidade de me aprofundar mais. </p>
 
