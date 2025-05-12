@@ -7,8 +7,7 @@
 <p> Eu sou apaixonado em aprender coisas novas. Estou sempre fazendo parte de algo que me é apresentado, pois acredito que toda forma de conhecimento agrega pessoalmente a todos. Durante a primeira graduação, participei de grupos de estudos de grego antigo e me apaixonei. Apresar de ser um amante da literatura arcaica, migrei para a área das clássicas digitais, pois é um mercado em ascensão. Me integrei mais ao grego, troquei minha língua de formação e toda minha área de pesquisa. Me encontrei nesse universo digital e agora busco uma oportunidade de me aprofundar mais. </p>
 
 <div>
-```bash
-curl https://www.dnd5eapi.co/api/classes
+<img src="https://github-profile-trophy.vercel.app/?username=allanpradella&theme=dracula&no-frame=true&row=1" />
 </div>
 
 <hr>
