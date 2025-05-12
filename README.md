@@ -9,6 +9,11 @@
 <div>
 <img src="https://komarev.com/ghpvc/?username=allanpradella&style=for-the-badge" alt="allanpradella" />
 </div>
+<div>
+
+  <img src="https://github.com/allanpradella/github-metrics/blob/master/github-metrics.svg" alt="metrics" />
+
+</div>
 
 <hr>
 <h3>LINGUAGENS EM ESTUDO</h3>
