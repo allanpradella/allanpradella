@@ -11,7 +11,7 @@
 </div>
 <div>
 
-  <img src="https://github.com/allanpradella/github-metrics/blob/master/github-metrics.svg" alt="metrics" />
+
 
 </div>
 
